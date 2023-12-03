@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Natasha Everitt",
+            "title": "Four reasons Real Madrid could pip Manchester United to £100m Harry Kane transfers following Karim...",
+            "description": "Real Madrid and Manchester United will both be prioritising signing a new striker this summer. Football clubs across Europe have realised just how tough that task is, though, but there is one man t…",
+            "url": "https://talksport.com/football/1446210/harry-kane-transfer-real-madrid-man-utd/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/06/PM-TALKSPORT-Harry-Kane-Spurs.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-06-05T14:26:36Z",
+            "content": "Real Madrid and Manchester United will both be prioritising signing a new striker this summer.\r\nFootball clubs across Europe have realised just how tough that task is, though, but there is one man th… [+3134 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": "David Kenyon",
+            "title": "Way-Too-Early 2023 Heisman Trophy Predictions and Sleepers",
+            "description": "For the second straight year, the reigning Heisman Trophy winner will return to college football. USC quarterback Caleb Williams, as a result, is naturally…",
+            "url": "https://bleacherreport.com/articles/10077427-way-too-early-2023-heisman-trophy-predictions-and-sleepers",
+            "urlToImage": "https://media.bleacherreport.com/image/upload/c_fill,g_faces,w_3800,h_2000,q_95/v1685369830/yo2xdhi5k3hpcnkw5qij.jpg",
+            "publishedAt": "2023-05-30T13:30:54Z",
+            "content": "Sarah Stier/Getty Images\r\nNot only is Caleb Williams the reigning Heisman winner, but he's also approaching the 2023 season with an ideal situation.\r\nAs a player, the 21-year-old is an electrifying a… [+1417 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
